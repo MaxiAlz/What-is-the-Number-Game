@@ -1,9 +1,8 @@
 // Swal.fire('Any fool can use a computer')
-
 //crear numero aleatorio que el usuario debera adivinar
 //al presionar el boton debe decir si el usuario adivino el numero 
 // si no lo adivino debe decirle si el numero que ingreso es menor o mayor al numero creado
-
+/**jgfjhgjhg */
 let numeroRandom;
 do {
     numeroRandom= Math.round(Math.random()*10);
